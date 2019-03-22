@@ -9,3 +9,4 @@ Following are the list of codes available in this repository.
 - [Find x<sup>y</sup> given double x and integer y](4-x-raised-to-power-of-y.cpp)
 - [Reverse an integer](5-reverse-an-integer.cpp)
 - [Check whether a given integer is a Palindrome](6-palindrome-integer.cpp)
+- [Write functions to find intersection between two rectangles and also to calculate the IoU between them](7-rectangle-intersection-and-iou.cpp)
