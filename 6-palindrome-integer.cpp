@@ -1,4 +1,6 @@
 // Check if a given integer is a Palindrome
+// Author: Sai Prajwal Kotamraju
+
 #include <iostream>
 #include <cmath>
 
