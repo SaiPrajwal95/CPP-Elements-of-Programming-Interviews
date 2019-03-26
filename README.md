@@ -10,3 +10,6 @@ Following are the list of codes available in this repository.
 - [Reverse an integer](5-reverse-an-integer.cpp)
 - [Check whether a given integer is a Palindrome](6-palindrome-integer.cpp)
 - [Write functions to find intersection between two rectangles and also to calculate the IoU between them](7-rectangle-intersection-and-iou.cpp)
+
+### Arrays
+- [Program that calculates maximum profit that can be obtained by buying and selling a stock once at the start of the day given a vector of values with stock prices at the start of the day](8-buy-and-sell-stock-once.cpp)
