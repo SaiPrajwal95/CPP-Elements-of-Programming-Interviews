@@ -13,3 +13,4 @@ Following are the list of codes available in this repository.
 
 ### Arrays
 - [Program that calculates maximum profit that can be obtained by buying and selling a stock once at the start of the day given a vector of values with stock prices at the start of the day](8-buy-and-sell-stock-once.cpp)
+- [Sort an array such that even elements of the array come first and then the odd elements occur](9-sort-an-array-in-even-odd-order.cpp)
