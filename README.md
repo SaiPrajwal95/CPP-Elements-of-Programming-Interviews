@@ -15,3 +15,4 @@ Following are the list of codes available in this repository.
 - [Program that calculates maximum profit that can be obtained by buying and selling a stock once at the start of the day given a vector of values with stock prices at the start of the day](8-buy-and-sell-stock-once.cpp)
 - [Sort an array such that even elements of the array come first and then the odd elements occur](9-sort-an-array-in-even-odd-order.cpp)
 - [Solve the Dutch National Flag Problem. See the code for problem description](10-dutch-national-flag-problem)
+- [Increment an array-encoded integer. Also, handle the overflow scenario](11-increment-arbitrary-precision-integer.cpp)
