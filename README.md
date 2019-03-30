@@ -16,3 +16,4 @@ Following are the list of codes available in this repository.
 - [Sort an array such that even elements of the array come first and then the odd elements occur](9-sort-an-array-in-even-odd-order.cpp)
 - [Solve the Dutch National Flag Problem. See the code for problem description](10-dutch-national-flag-problem)
 - [Increment an array-encoded integer. Also, handle the overflow scenario](11-increment-arbitrary-precision-integer.cpp)
+- [Multiply two array-encoded integers and return the resultant array encoded integer](12-multiply-arbitrary-precision-integers.cpp)
