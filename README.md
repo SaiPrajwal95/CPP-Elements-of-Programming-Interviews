@@ -17,3 +17,4 @@ Following are the list of codes available in this repository.
 - [Solve the Dutch National Flag Problem. See the code for problem description](10-dutch-national-flag-problem)
 - [Increment an array-encoded integer. Also, handle the overflow scenario](11-increment-arbitrary-precision-integer.cpp)
 - [Multiply two array-encoded integers and return the resultant array encoded integer](12-multiply-arbitrary-precision-integers.cpp)
+- [Identify the duplicate elements in a given input array and push them to the end](13-identify-duplications-in-array.cpp)
